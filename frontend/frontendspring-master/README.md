@@ -1,8 +1,4 @@
-![employeetable](https://github.com/GangaSagarReddy/frontendspring/assets/101339550/a327452e-c081-426d-8ffc-7302ced0d5e7)
-![Add employee page](https://github.com/GangaSagarReddy/frontendspring/assets/101339550/454e4ff3-24d9-4db9-90ad-a7ec2fe04e8d)
-![edit employee page](https://github.com/GangaSagarReddy/frontendspring/assets/101339550/7be1091a-ea1f-4d38-9ddf-2fa7da7b8079)
-![viewemployeepage](https://github.com/GangaSagarReddy/frontendspring/assets/101339550/5f61ad33-dea7-44c7-ac2f-c829bc68d681)
-![deletebutton](https://github.com/GangaSagarReddy/frontendspring/assets/101339550/6b70469c-52ce-4d06-9fcf-4caa9787ac0b)
+
 
 # Getting Started with Create React App
 
